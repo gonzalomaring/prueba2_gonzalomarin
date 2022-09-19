@@ -23,7 +23,7 @@ Continuaremos con una lista no ordenada:
 
 [Desde este enlace puedes acceder al buscador de google](https://www.google.es)
 
-[Desde este enlace puedo acceder a un fichero markdown que tengo en mi ordenador de forma interna](recursos/prueba.md)
+[Desde este enlace se puede acceder a otro fichero markdown](recursos/prueba.md)
 
 ![Prueba imagen](recursos/prueba.png)
 
